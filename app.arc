@@ -4,6 +4,7 @@ open-purse
 @static
 
 @http
+post /api/github/webhooks
 
 @tables
 data
