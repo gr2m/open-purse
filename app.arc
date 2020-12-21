@@ -1,5 +1,5 @@
 @app
-begin-app
+open-purse
 
 @static
 
